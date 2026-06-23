@@ -1,0 +1,240 @@
+{
+  "prediction_id": "pred_2026-06-23",
+  "timestamp_utc": "2026-06-23T21:14:41.605Z",
+  "prediction_date": "2026-06-23",
+  "assets": [
+    {
+      "ticker": "XLC",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.9314,
+      "pWarning": 0.0677,
+      "pNormal": 0.0009,
+      "category": "ETF"
+    },
+    {
+      "ticker": "U",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.6911,
+      "pWarning": 0.3086,
+      "pNormal": 0.0002,
+      "category": "Tech"
+    },
+    {
+      "ticker": "ENPH",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.8677,
+      "pWarning": 0.1322,
+      "pNormal": 0.0002,
+      "category": "Tech"
+    },
+    {
+      "ticker": "CDNS",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.682,
+      "pWarning": 0.3169,
+      "pNormal": 0.0011,
+      "category": "Tech"
+    },
+    {
+      "ticker": "META",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.6651,
+      "pWarning": 0.3348,
+      "pNormal": 0.0001,
+      "category": "Tech"
+    },
+    {
+      "ticker": "COIN",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.5453,
+      "pWarning": 0.4545,
+      "pNormal": 0.0001,
+      "category": "Finance"
+    },
+    {
+      "ticker": "AUDJPY=X",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.7287,
+      "pWarning": 0.2667,
+      "pNormal": 0.0046,
+      "category": "Forex"
+    },
+    {
+      "ticker": "NZDJPY=X",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.0476,
+      "pWarning": 0.944,
+      "pNormal": 0.0084,
+      "category": "Forex"
+    },
+    {
+      "ticker": "GBPAUD=X",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.0679,
+      "pWarning": 0.5094,
+      "pNormal": 0.4227,
+      "category": "Forex"
+    },
+    {
+      "ticker": "USDCHF=X",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.3965,
+      "pWarning": 0.6007,
+      "pNormal": 0.0028,
+      "category": "Forex"
+    },
+    {
+      "ticker": "EURJPY=X",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.6237,
+      "pWarning": 0.3722,
+      "pNormal": 0.0041,
+      "category": "Forex"
+    },
+    {
+      "ticker": "GBPCAD=X",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.1574,
+      "pWarning": 0.8349,
+      "pNormal": 0.0077,
+      "category": "Forex"
+    },
+    {
+      "ticker": "GBPJPY=X",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.992,
+      "pWarning": 0.0079,
+      "pNormal": 0.0002,
+      "category": "Forex"
+    },
+    {
+      "ticker": "EURCHF=X",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.3593,
+      "pWarning": 0.5129,
+      "pNormal": 0.1279,
+      "category": "Forex"
+    },
+    {
+      "ticker": "GBPUSD=X",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.4468,
+      "pWarning": 0.5205,
+      "pNormal": 0.0326,
+      "category": "Forex"
+    },
+    {
+      "ticker": "EURUSD=X",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.5489,
+      "pWarning": 0.4311,
+      "pNormal": 0.0199,
+      "category": "Forex"
+    },
+    {
+      "ticker": "USDJPY=X",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.6501,
+      "pWarning": 0.3379,
+      "pNormal": 0.012,
+      "category": "Forex"
+    },
+    {
+      "ticker": "AUDUSD=X",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.1261,
+      "pWarning": 0.8738,
+      "pNormal": 0.0002,
+      "category": "Forex"
+    },
+    {
+      "ticker": "CHFJPY=X",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.8416,
+      "pWarning": 0.1278,
+      "pNormal": 0.0305,
+      "category": "Forex"
+    },
+    {
+      "ticker": "EURCAD=X",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.1988,
+      "pWarning": 0.7899,
+      "pNormal": 0.0113,
+      "category": "Forex"
+    },
+    {
+      "ticker": "EURAUD=X",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.8722,
+      "pWarning": 0.1191,
+      "pNormal": 0.0087,
+      "category": "Forex"
+    },
+    {
+      "ticker": "AUDCAD=X",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.2753,
+      "pWarning": 0.7205,
+      "pNormal": 0.0042,
+      "category": "Forex"
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.6514,
+      "pWarning": 0.3458,
+      "pNormal": 0.0028,
+      "category": "Forex"
+    },
+    {
+      "ticker": "USDCAD=X",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.6375,
+      "pWarning": 0.3508,
+      "pNormal": 0.0118,
+      "category": "Forex"
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.6796,
+      "pWarning": 0.3053,
+      "pNormal": 0.0151,
+      "category": "Forex"
+    }
+  ],
+  "summary": {
+    "total": 25,
+    "fault": 16,
+    "warning": 9,
+    "normal": 0
+  },
+  "model_version": "ml_model",
+  "prev_prediction_hash": null
+}
