@@ -1,59 +1,59 @@
 {
   "prediction_id": "pred_2026-06-24",
-  "timestamp_utc": "2026-06-24T03:54:45.548Z",
+  "timestamp_utc": "2026-06-24T04:05:23.550Z",
   "prediction_date": "2026-06-24",
   "assets": [
     {
       "ticker": "XLC",
       "timeframe": "D1",
       "signal": "FAULT",
-      "pFault": 0.9314,
-      "pWarning": 0.0677,
-      "pNormal": 0.0009,
+      "pFault": 0.9934,
+      "pWarning": 0.0063,
+      "pNormal": 0.0002,
       "category": "ETF"
     },
     {
       "ticker": "U",
       "timeframe": "D1",
       "signal": "FAULT",
-      "pFault": 0.6911,
-      "pWarning": 0.3086,
-      "pNormal": 0.0002,
+      "pFault": 0.563,
+      "pWarning": 0.4367,
+      "pNormal": 0.0003,
       "category": "Tech"
     },
     {
       "ticker": "ENPH",
       "timeframe": "D1",
       "signal": "FAULT",
-      "pFault": 0.8677,
-      "pWarning": 0.1322,
-      "pNormal": 0.0002,
+      "pFault": 0.9305,
+      "pWarning": 0.0694,
+      "pNormal": 0.0001,
       "category": "Tech"
     },
     {
       "ticker": "CDNS",
       "timeframe": "D1",
       "signal": "FAULT",
-      "pFault": 0.682,
-      "pWarning": 0.3169,
-      "pNormal": 0.0011,
+      "pFault": 0.9114,
+      "pWarning": 0.0867,
+      "pNormal": 0.0019,
       "category": "Tech"
     },
     {
       "ticker": "META",
       "timeframe": "D1",
-      "signal": "FAULT",
-      "pFault": 0.6651,
-      "pWarning": 0.3348,
-      "pNormal": 0.0001,
+      "signal": "WARNING",
+      "pFault": 0.3,
+      "pWarning": 0.6993,
+      "pNormal": 0.0007,
       "category": "Tech"
     },
     {
       "ticker": "COIN",
       "timeframe": "D1",
-      "signal": "FAULT",
-      "pFault": 0.5453,
-      "pWarning": 0.4545,
+      "signal": "WARNING",
+      "pFault": 0.1941,
+      "pWarning": 0.8058,
       "pNormal": 0.0001,
       "category": "Finance"
     },
@@ -70,9 +70,9 @@
       "ticker": "NZDJPY=X",
       "timeframe": "D1",
       "signal": "WARNING",
-      "pFault": 0.0476,
-      "pWarning": 0.944,
-      "pNormal": 0.0084,
+      "pFault": 0.1166,
+      "pWarning": 0.8828,
+      "pNormal": 0.0006,
       "category": "Forex"
     },
     {
@@ -88,9 +88,9 @@
       "ticker": "USDCHF=X",
       "timeframe": "D1",
       "signal": "WARNING",
-      "pFault": 0.3965,
-      "pWarning": 0.6007,
-      "pNormal": 0.0028,
+      "pFault": 0.2296,
+      "pWarning": 0.7387,
+      "pNormal": 0.0317,
       "category": "Forex"
     },
     {
@@ -151,9 +151,9 @@
       "ticker": "USDJPY=X",
       "timeframe": "D1",
       "signal": "FAULT",
-      "pFault": 0.6501,
-      "pWarning": 0.3379,
-      "pNormal": 0.012,
+      "pFault": 0.4761,
+      "pWarning": 0.3303,
+      "pNormal": 0.1936,
       "category": "Forex"
     },
     {
@@ -205,18 +205,18 @@
       "ticker": "NZDUSD=X",
       "timeframe": "D1",
       "signal": "FAULT",
-      "pFault": 0.6514,
-      "pWarning": 0.3458,
-      "pNormal": 0.0028,
+      "pFault": 0.9053,
+      "pWarning": 0.0925,
+      "pNormal": 0.0022,
       "category": "Forex"
     },
     {
       "ticker": "USDCAD=X",
       "timeframe": "D1",
-      "signal": "FAULT",
-      "pFault": 0.6375,
-      "pWarning": 0.3508,
-      "pNormal": 0.0118,
+      "signal": "WARNING",
+      "pFault": 0.1217,
+      "pWarning": 0.8692,
+      "pNormal": 0.0091,
       "category": "Forex"
     },
     {
@@ -231,8 +231,8 @@
   ],
   "summary": {
     "total": 25,
-    "fault": 15,
-    "warning": 10,
+    "fault": 12,
+    "warning": 13,
     "normal": 0
   },
   "model_version": "ml_model",
