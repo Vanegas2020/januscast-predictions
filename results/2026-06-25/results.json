@@ -28,49 +28,13 @@
   },
   "results": [
     {
-      "ticker": "XLC",
-      "signal": "FAULT",
-      "outcome": "CORRECT",
-      "actualReturn": -0.009011,
-      "pFault": 0.9994,
-      "pWarning": 0.0005,
-      "pNormal": 0.0001
-    },
-    {
-      "ticker": "GBPJPY=X",
-      "signal": "FAULT",
-      "outcome": "CORRECT",
-      "actualReturn": -0.00165,
-      "pFault": 0.9902,
-      "pWarning": 0.0093,
-      "pNormal": 0.0005
-    },
-    {
-      "ticker": "U",
-      "signal": "FAULT",
-      "outcome": "CORRECT",
-      "actualReturn": -0.016206,
-      "pFault": 0.9622,
-      "pWarning": 0.0376,
-      "pNormal": 0.0002
-    },
-    {
-      "ticker": "ENPH",
-      "signal": "FAULT",
-      "outcome": "CORRECT",
-      "actualReturn": -0.012756,
-      "pFault": 0.9526,
-      "pWarning": 0.0472,
-      "pNormal": 0.0001
-    },
-    {
-      "ticker": "CDNS",
-      "signal": "FAULT",
-      "outcome": "CORRECT",
-      "actualReturn": -0.011198,
-      "pFault": 0.9197,
-      "pWarning": 0.0797,
-      "pNormal": 0.0006
+      "ticker": "AUDCAD=X",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.000712,
+      "pFault": 0.4263,
+      "pWarning": 0.57,
+      "pNormal": 0.0037
     },
     {
       "ticker": "AUDJPY=X",
@@ -82,51 +46,6 @@
       "pNormal": 0.0031
     },
     {
-      "ticker": "META",
-      "signal": "FAULT",
-      "outcome": "CORRECT",
-      "actualReturn": -0.026539,
-      "pFault": 0.8082,
-      "pWarning": 0.1914,
-      "pNormal": 0.0005
-    },
-    {
-      "ticker": "USDCHF=X",
-      "signal": "FAULT",
-      "outcome": "INCORRECT",
-      "actualReturn": 0.000124,
-      "pFault": 0.7161,
-      "pWarning": 0.2717,
-      "pNormal": 0.0121
-    },
-    {
-      "ticker": "NZDUSD=X",
-      "signal": "FAULT",
-      "outcome": "CORRECT",
-      "actualReturn": -0.00353,
-      "pFault": 0.6939,
-      "pWarning": 0.3017,
-      "pNormal": 0.0043
-    },
-    {
-      "ticker": "COIN",
-      "signal": "FAULT",
-      "outcome": "CORRECT",
-      "actualReturn": -0.050563,
-      "pFault": 0.6866,
-      "pWarning": 0.3132,
-      "pNormal": 0.0003
-    },
-    {
-      "ticker": "GBPUSD=X",
-      "signal": "FAULT",
-      "outcome": "CORRECT",
-      "actualReturn": -0.0025,
-      "pFault": 0.6624,
-      "pWarning": 0.3066,
-      "pNormal": 0.031
-    },
-    {
       "ticker": "AUDNZD=X",
       "signal": "FAULT",
       "outcome": "INCORRECT",
@@ -134,78 +53,6 @@
       "pFault": 0.548,
       "pWarning": 0.4364,
       "pNormal": 0.0156
-    },
-    {
-      "ticker": "USDJPY=X",
-      "signal": "FAULT",
-      "outcome": "INCORRECT",
-      "actualReturn": 0.001095,
-      "pFault": 0.5025,
-      "pWarning": 0.4426,
-      "pNormal": 0.0549
-    },
-    {
-      "ticker": "USDCAD=X",
-      "signal": "WARNING",
-      "outcome": "INCORRECT",
-      "actualReturn": -0.001056,
-      "pFault": 0.4969,
-      "pWarning": 0.4982,
-      "pNormal": 0.0049
-    },
-    {
-      "ticker": "CHFJPY=X",
-      "signal": "WARNING",
-      "outcome": "CORRECT",
-      "actualReturn": 0.001204,
-      "pFault": 0.4684,
-      "pWarning": 0.5073,
-      "pNormal": 0.0244
-    },
-    {
-      "ticker": "AUDCAD=X",
-      "signal": "WARNING",
-      "outcome": "INCORRECT",
-      "actualReturn": -0.000712,
-      "pFault": 0.4263,
-      "pWarning": 0.57,
-      "pNormal": 0.0037
-    },
-    {
-      "ticker": "EURUSD=X",
-      "signal": "WARNING",
-      "outcome": "INCORRECT",
-      "actualReturn": -0.002285,
-      "pFault": 0.3774,
-      "pWarning": 0.5922,
-      "pNormal": 0.0304
-    },
-    {
-      "ticker": "EURJPY=X",
-      "signal": "WARNING",
-      "outcome": "INCORRECT",
-      "actualReturn": -0.001153,
-      "pFault": 0.3747,
-      "pWarning": 0.5936,
-      "pNormal": 0.0317
-    },
-    {
-      "ticker": "EURAUD=X",
-      "signal": "WARNING",
-      "outcome": "CORRECT",
-      "actualReturn": 0.000243,
-      "pFault": 0.3173,
-      "pWarning": 0.6705,
-      "pNormal": 0.0121
-    },
-    {
-      "ticker": "EURCHF=X",
-      "signal": "WARNING",
-      "outcome": "CORRECT",
-      "actualReturn": 0.001411,
-      "pFault": 0.1283,
-      "pWarning": 0.7714,
-      "pNormal": 0.1003
     },
     {
       "ticker": "AUDUSD=X",
@@ -217,13 +64,49 @@
       "pNormal": 0.0183
     },
     {
-      "ticker": "GBPAUD=X",
+      "ticker": "CDNS",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.011198,
+      "pFault": 0.9197,
+      "pWarning": 0.0797,
+      "pNormal": 0.0006
+    },
+    {
+      "ticker": "CHFJPY=X",
       "signal": "WARNING",
-      "outcome": "INCORRECT",
-      "actualReturn": -0.00021,
-      "pFault": 0.0388,
-      "pWarning": 0.8393,
-      "pNormal": 0.1219
+      "outcome": "CORRECT",
+      "actualReturn": 0.001204,
+      "pFault": 0.4684,
+      "pWarning": 0.5073,
+      "pNormal": 0.0244
+    },
+    {
+      "ticker": "COIN",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.050563,
+      "pFault": 0.6866,
+      "pWarning": 0.3132,
+      "pNormal": 0.0003
+    },
+    {
+      "ticker": "ENPH",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.012756,
+      "pFault": 0.9526,
+      "pWarning": 0.0472,
+      "pNormal": 0.0001
+    },
+    {
+      "ticker": "EURAUD=X",
+      "signal": "WARNING",
+      "outcome": "CORRECT",
+      "actualReturn": 0.000243,
+      "pFault": 0.3173,
+      "pWarning": 0.6705,
+      "pNormal": 0.0121
     },
     {
       "ticker": "EURCAD=X",
@@ -235,13 +118,40 @@
       "pNormal": 0.0079
     },
     {
-      "ticker": "NZDJPY=X",
+      "ticker": "EURCHF=X",
+      "signal": "WARNING",
+      "outcome": "CORRECT",
+      "actualReturn": 0.001411,
+      "pFault": 0.1283,
+      "pWarning": 0.7714,
+      "pNormal": 0.1003
+    },
+    {
+      "ticker": "EURJPY=X",
       "signal": "WARNING",
       "outcome": "INCORRECT",
-      "actualReturn": -0.001803,
-      "pFault": 0.0218,
-      "pWarning": 0.9778,
-      "pNormal": 0.0004
+      "actualReturn": -0.001153,
+      "pFault": 0.3747,
+      "pWarning": 0.5936,
+      "pNormal": 0.0317
+    },
+    {
+      "ticker": "EURUSD=X",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.002285,
+      "pFault": 0.3774,
+      "pWarning": 0.5922,
+      "pNormal": 0.0304
+    },
+    {
+      "ticker": "GBPAUD=X",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.00021,
+      "pFault": 0.0388,
+      "pWarning": 0.8393,
+      "pNormal": 0.1219
     },
     {
       "ticker": "GBPCAD=X",
@@ -251,7 +161,97 @@
       "pFault": 0.0114,
       "pWarning": 0.9882,
       "pNormal": 0.0004
+    },
+    {
+      "ticker": "GBPJPY=X",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.00165,
+      "pFault": 0.9902,
+      "pWarning": 0.0093,
+      "pNormal": 0.0005
+    },
+    {
+      "ticker": "GBPUSD=X",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.0025,
+      "pFault": 0.6624,
+      "pWarning": 0.3066,
+      "pNormal": 0.031
+    },
+    {
+      "ticker": "META",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.026539,
+      "pFault": 0.8082,
+      "pWarning": 0.1914,
+      "pNormal": 0.0005
+    },
+    {
+      "ticker": "NZDJPY=X",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.001803,
+      "pFault": 0.0218,
+      "pWarning": 0.9778,
+      "pNormal": 0.0004
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.00353,
+      "pFault": 0.6939,
+      "pWarning": 0.3017,
+      "pNormal": 0.0043
+    },
+    {
+      "ticker": "U",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.016206,
+      "pFault": 0.9622,
+      "pWarning": 0.0376,
+      "pNormal": 0.0002
+    },
+    {
+      "ticker": "USDCAD=X",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.001056,
+      "pFault": 0.4969,
+      "pWarning": 0.4982,
+      "pNormal": 0.0049
+    },
+    {
+      "ticker": "USDCHF=X",
+      "signal": "FAULT",
+      "outcome": "INCORRECT",
+      "actualReturn": 0.000124,
+      "pFault": 0.7161,
+      "pWarning": 0.2717,
+      "pNormal": 0.0121
+    },
+    {
+      "ticker": "USDJPY=X",
+      "signal": "FAULT",
+      "outcome": "INCORRECT",
+      "actualReturn": 0.001095,
+      "pFault": 0.5025,
+      "pWarning": 0.4426,
+      "pNormal": 0.0549
+    },
+    {
+      "ticker": "XLC",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.009011,
+      "pFault": 0.9994,
+      "pWarning": 0.0005,
+      "pNormal": 0.0001
     }
   ],
-  "timestamp_utc": "2026-06-26T02:43:18.685Z"
+  "timestamp_utc": "2026-06-26T22:29:22.359Z"
 }
