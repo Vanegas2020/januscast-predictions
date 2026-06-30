@@ -1,0 +1,240 @@
+{
+  "prediction_id": "pred_2026-06-30",
+  "timestamp_utc": "2026-06-30T22:02:44.919Z",
+  "prediction_date": "2026-06-30",
+  "assets": [
+    {
+      "ticker": "^N225",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.1598,
+      "pWarning": 0.8346,
+      "pNormal": 0.0057,
+      "category": "Indices"
+    },
+    {
+      "ticker": "AUDUSD=X",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.5886,
+      "pWarning": 0.4061,
+      "pNormal": 0.0053,
+      "category": "Forex"
+    },
+    {
+      "ticker": "BTC-USD",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.5965,
+      "pWarning": 0.4034,
+      "pNormal": 0.0001,
+      "category": "Crypto"
+    },
+    {
+      "ticker": "COR",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.1159,
+      "pWarning": 0.884,
+      "pNormal": 0.0002,
+      "category": "Health"
+    },
+    {
+      "ticker": "DIA",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.4573,
+      "pWarning": 0.5373,
+      "pNormal": 0.0054,
+      "category": "ETF"
+    },
+    {
+      "ticker": "ETH-USD",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.8908,
+      "pWarning": 0.109,
+      "pNormal": 0.0002,
+      "category": "Crypto"
+    },
+    {
+      "ticker": "EURGBP=X",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.6664,
+      "pWarning": 0.2243,
+      "pNormal": 0.1093,
+      "category": "Forex"
+    },
+    {
+      "ticker": "GBPJPY=X",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.121,
+      "pWarning": 0.8703,
+      "pNormal": 0.0088,
+      "category": "Forex"
+    },
+    {
+      "ticker": "GBPUSD=X",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.8399,
+      "pWarning": 0.1598,
+      "pNormal": 0.0003,
+      "category": "Forex"
+    },
+    {
+      "ticker": "IWM",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.1635,
+      "pWarning": 0.8363,
+      "pNormal": 0.0002,
+      "category": "ETF"
+    },
+    {
+      "ticker": "KMI",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.0426,
+      "pWarning": 0.9569,
+      "pNormal": 0.0005,
+      "category": "Energy"
+    },
+    {
+      "ticker": "LPLA",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.9607,
+      "pWarning": 0.0387,
+      "pNormal": 0.0006,
+      "category": "Finance"
+    },
+    {
+      "ticker": "LRCX",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.1476,
+      "pWarning": 0.8522,
+      "pNormal": 0.0002,
+      "category": "Tech"
+    },
+    {
+      "ticker": "NFLX",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.5172,
+      "pWarning": 0.4804,
+      "pNormal": 0.0024,
+      "category": "Tech"
+    },
+    {
+      "ticker": "NG=F",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.3917,
+      "pWarning": 0.6068,
+      "pNormal": 0.0015,
+      "category": "Commodities"
+    },
+    {
+      "ticker": "NTRS",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.0925,
+      "pWarning": 0.9071,
+      "pNormal": 0.0004,
+      "category": "Finance"
+    },
+    {
+      "ticker": "OKTA",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.3127,
+      "pWarning": 0.6867,
+      "pNormal": 0.0006,
+      "category": "Tech"
+    },
+    {
+      "ticker": "PA=F",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.8687,
+      "pWarning": 0.1313,
+      "pNormal": 0,
+      "category": "Metals"
+    },
+    {
+      "ticker": "QRVO",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.8377,
+      "pWarning": 0.162,
+      "pNormal": 0.0003,
+      "category": "Tech"
+    },
+    {
+      "ticker": "RMD",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.0758,
+      "pWarning": 0.9242,
+      "pNormal": 0,
+      "category": "Health"
+    },
+    {
+      "ticker": "SNOW",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.233,
+      "pWarning": 0.7669,
+      "pNormal": 0.0001,
+      "category": "Tech"
+    },
+    {
+      "ticker": "USDJPY=X",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.3802,
+      "pWarning": 0.4263,
+      "pNormal": 0.1935,
+      "category": "Forex"
+    },
+    {
+      "ticker": "WDAY",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.9221,
+      "pWarning": 0.0769,
+      "pNormal": 0.001,
+      "category": "Tech"
+    },
+    {
+      "ticker": "XLU",
+      "timeframe": "D1",
+      "signal": "WARNING",
+      "pFault": 0.4466,
+      "pWarning": 0.5515,
+      "pNormal": 0.0018,
+      "category": "ETF"
+    },
+    {
+      "ticker": "ZM",
+      "timeframe": "D1",
+      "signal": "FAULT",
+      "pFault": 0.6443,
+      "pWarning": 0.3533,
+      "pNormal": 0.0024,
+      "category": "Tech"
+    }
+  ],
+  "summary": {
+    "total": 25,
+    "fault": 11,
+    "warning": 14,
+    "normal": 0
+  },
+  "model_version": "ml_model",
+  "prev_prediction_hash": null
+}
