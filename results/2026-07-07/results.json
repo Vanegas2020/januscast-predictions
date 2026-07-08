@@ -1,0 +1,257 @@
+{
+  "predictionDate": "2026-07-07",
+  "scorecard": {
+    "totalPredictions": 25,
+    "correct": 8,
+    "incorrect": 17,
+    "pending": 0,
+    "hitRate": 0.32,
+    "bySignal": {
+      "FAULT": {
+        "total": 8,
+        "correct": 4,
+        "hitRate": null
+      },
+      "WARNING": {
+        "total": 17,
+        "correct": 4,
+        "hitRate": null
+      },
+      "NORMAL": {
+        "total": 0,
+        "correct": null,
+        "hitRate": null
+      }
+    },
+    "topCorrect": [],
+    "topIncorrect": []
+  },
+  "results": [
+    {
+      "ticker": "AAPL",
+      "signal": "WARNING",
+      "outcome": "CORRECT",
+      "actualReturn": 0.008788,
+      "pFault": 0.4806,
+      "pWarning": 0.486,
+      "pNormal": 0.0334
+    },
+    {
+      "ticker": "ABBV",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.0075,
+      "pFault": 0.0362,
+      "pWarning": 0.9637,
+      "pNormal": 0.0001
+    },
+    {
+      "ticker": "ARKF",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.013842,
+      "pFault": 0.1523,
+      "pWarning": 0.8475,
+      "pNormal": 0.0002
+    },
+    {
+      "ticker": "ARKG",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.017136,
+      "pFault": 0.1755,
+      "pWarning": 0.8229,
+      "pNormal": 0.0016
+    },
+    {
+      "ticker": "ARKW",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.00917,
+      "pFault": 0.2577,
+      "pWarning": 0.7419,
+      "pNormal": 0.0004
+    },
+    {
+      "ticker": "AUDUSD=X",
+      "signal": "FAULT",
+      "outcome": "INCORRECT",
+      "actualReturn": 0.000722,
+      "pFault": 0.7187,
+      "pWarning": 0.1883,
+      "pNormal": 0.093
+    },
+    {
+      "ticker": "CME",
+      "signal": "FAULT",
+      "outcome": "INCORRECT",
+      "actualReturn": 0.009637,
+      "pFault": 0.9826,
+      "pWarning": 0.0174,
+      "pNormal": 0.0001
+    },
+    {
+      "ticker": "EURAUD=X",
+      "signal": "WARNING",
+      "outcome": "CORRECT",
+      "actualReturn": 0.001216,
+      "pFault": 0.0112,
+      "pWarning": 0.7422,
+      "pNormal": 0.2466
+    },
+    {
+      "ticker": "EURUSD=X",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.003321,
+      "pFault": 0.6187,
+      "pWarning": 0.3311,
+      "pNormal": 0.0501
+    },
+    {
+      "ticker": "GLD",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.008053,
+      "pFault": 0.7246,
+      "pWarning": 0.2703,
+      "pNormal": 0.0052
+    },
+    {
+      "ticker": "IWM",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.00915,
+      "pFault": 0.2507,
+      "pWarning": 0.7491,
+      "pNormal": 0.0002
+    },
+    {
+      "ticker": "KMI",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.000308,
+      "pFault": 0.3455,
+      "pWarning": 0.6543,
+      "pNormal": 0.0003
+    },
+    {
+      "ticker": "LPLA",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.021978,
+      "pFault": 0.0915,
+      "pWarning": 0.9084,
+      "pNormal": 0.0001
+    },
+    {
+      "ticker": "MCK",
+      "signal": "WARNING",
+      "outcome": "CORRECT",
+      "actualReturn": 0.014034,
+      "pFault": 0.3542,
+      "pWarning": 0.6446,
+      "pNormal": 0.0012
+    },
+    {
+      "ticker": "META",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.020241,
+      "pFault": 0.3944,
+      "pWarning": 0.6048,
+      "pNormal": 0.0008
+    },
+    {
+      "ticker": "NFLX",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.007745,
+      "pFault": 0.7887,
+      "pWarning": 0.2111,
+      "pNormal": 0.0002
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "signal": "FAULT",
+      "outcome": "CORRECT",
+      "actualReturn": -0.004384,
+      "pFault": 0.9651,
+      "pWarning": 0.0307,
+      "pNormal": 0.0042
+    },
+    {
+      "ticker": "OKTA",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.01145,
+      "pFault": 0.0144,
+      "pWarning": 0.9847,
+      "pNormal": 0.0009
+    },
+    {
+      "ticker": "QQQ",
+      "signal": "FAULT",
+      "outcome": "INCORRECT",
+      "actualReturn": 0.002833,
+      "pFault": 0.5582,
+      "pWarning": 0.4414,
+      "pNormal": 0.0005
+    },
+    {
+      "ticker": "SNOW",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.005443,
+      "pFault": 0.0489,
+      "pWarning": 0.951,
+      "pNormal": 0
+    },
+    {
+      "ticker": "SOL-USD",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.040631,
+      "pFault": 0.4925,
+      "pWarning": 0.5073,
+      "pNormal": 0.0001
+    },
+    {
+      "ticker": "SPY",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.003089,
+      "pFault": 0.2388,
+      "pWarning": 0.7601,
+      "pNormal": 0.0011
+    },
+    {
+      "ticker": "USDJPY=X",
+      "signal": "WARNING",
+      "outcome": "CORRECT",
+      "actualReturn": 0.002794,
+      "pFault": 0.0548,
+      "pWarning": 0.5674,
+      "pNormal": 0.3777
+    },
+    {
+      "ticker": "XLU",
+      "signal": "WARNING",
+      "outcome": "INCORRECT",
+      "actualReturn": -0.00744,
+      "pFault": 0.2107,
+      "pWarning": 0.789,
+      "pNormal": 0.0003
+    },
+    {
+      "ticker": "ZM",
+      "signal": "FAULT",
+      "outcome": "INCORRECT",
+      "actualReturn": 0.020075,
+      "pFault": 0.9967,
+      "pWarning": 0.0024,
+      "pNormal": 0.0009
+    }
+  ],
+  "timestamp_utc": "2026-07-08T22:02:21.361Z"
+}
